@@ -4,8 +4,8 @@ module.exports = {
       endpoint: 'http://localhost:8000'
     },
     aws_remote_config: {
-      accessKeyId: 'AKIAQKS74FXBOHEXM5HD',
-      secretAccessKey: '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',
+      accessKeyId: '',
+      secretAccessKey: '',
       region: 'ap-southeast-2',
     }
   };
